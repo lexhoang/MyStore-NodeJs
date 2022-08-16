@@ -24,9 +24,9 @@ app.use(cors());
 app.use(express.json());
 
 //Sự dụng unicode
-app.use(express.urlencoded({
-    urlencoded: true
-}))
+// app.use(express.urlencoded({
+//     urlencoded: true
+// }))
 
 
 app.use(function (req, res, next) {
