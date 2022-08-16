@@ -1,1 +1,1 @@
-web: mpn start
+web: node app.js
