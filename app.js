@@ -24,9 +24,9 @@ app.use(cors());
 app.use(express.json());
 
 //Sự dụng unicode
-app.use(express.urlencoded({
-    urlencoded: true
-}))
+// app.use(express.urlencoded({
+//     urlencoded: true
+// }))
 
 
 app.use(function (req, res, next) {
@@ -40,7 +40,7 @@ app.use(function (req, res, next) {
 // const port = 8000;
 
 //Sử dụng Mongoose
-mongoose.connect("mongodb://localhost:27017/VapeStore", (err) => {
+mongoose.connect("mongodb+srv://lehoang:lehoang123@cluster0.mcqutmz.mongodb.net/?retryWrites=true&w=majority", { useNewUrlParser: true, useUnifiedTopology: true }, (err) => {
     if (err) {
         throw err;
     }
@@ -55,7 +55,7 @@ app.get('/', (request, response) => {
     response.status(200).json({
         test: 1111
     })
-})
+});
 
 
 //Sử dụng router
