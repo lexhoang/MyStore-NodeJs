@@ -1,0 +1,52 @@
+[{
+  "_id": {
+    "$oid": "62ec120f08e562b2a0acdf32"
+  },
+  "name": "Vape",
+  "description": "Vape - Thuốc lá điện tử dung lượng lớn",
+  "timeCreated": {
+    "$date": {
+      "$numberLong": "1659628795922"
+    }
+  },
+  "timeUpdated": {
+    "$date": {
+      "$numberLong": "1659628795922"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ec121c08e562b2a0acdf35"
+  },
+  "name": "Pod",
+  "description": "Pod- Thuốc lá điện tử dung nhỏ",
+  "timeCreated": {
+    "$date": {
+      "$numberLong": "1659628795922"
+    }
+  },
+  "timeUpdated": {
+    "$date": {
+      "$numberLong": "1659628795922"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ec2748636c180b64162845"
+  },
+  "name": "Juice",
+  "description": "Tinh dầu cho Vape - Pod",
+  "timeCreated": {
+    "$date": {
+      "$numberLong": "1659638357033"
+    }
+  },
+  "timeUpdated": {
+    "$date": {
+      "$numberLong": "1659638357033"
+    }
+  },
+  "__v": 0
+}]

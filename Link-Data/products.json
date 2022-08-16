@@ -1,0 +1,577 @@
+[{
+  "_id": {
+    "$oid": "62ec12d5636c180b6416253c"
+  },
+  "name": "Rincoe Jellybox Mini 80W Kit",
+  "description": "Rincoe Jellybox Mini Box Mod được làm bằng hợp kim kẽm bền và PC cao cấp, chắc chắn và chống rơi. Toàn bộ máy áp dụng thiết kế trong suốt độc đáo từ xe tăng đến bản mod, mang lại tính thẩm mỹ tuyệt đẹp và tác động thị giác mạnh mẽ.",
+  "type": {
+    "$oid": "62ec120f08e562b2a0acdf32"
+  },
+  "imageUrl": "https://vapetinhte.com/wp-content/uploads/2020/12/Rincoe-Jellybox-Mini-80W-Kit-Full-color-vapetinhte.jpg",
+  "buyPrice": 950000,
+  "promotionPrice": 850000,
+  "amount": 50,
+  "timeCreated": {
+    "$date": {
+      "$numberLong": "1659638357049"
+    }
+  },
+  "timeUpdated": {
+    "$date": {
+      "$numberLong": "1659638357049"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ec1377636c180b64162541"
+  },
+  "name": "Ijoy Shogun JR Kit",
+  "description": "IJoy Shogun Jr Kit là một vape kit nhỏ gọn và có ngoại hình đẹp ấn tượng với những đường cắt trên thân máy và lớp vỏ resin được gia công rất đẹp. Box Mod Shogun Jr có công suất tối đa 126W và sở hữu 02 pin gắn trong thân với dung lượng lên đến 4500mah, trái tim của Shogun Jr Box Mod là chip-set UNIV, một con chip cực kỳ an toàn và hiệu năng rất đáng kinh ngạc của IJoy. Đi kèm cùng kit là Shogun Subohm Tank được trang bị coil occ mesh coil 0.2ohm kiểu mới nhất, dung tích bình tinh dầu lớn đến 6ml đủ cho ngày dài sử dụng.",
+  "type": {
+    "$oid": "62ec120f08e562b2a0acdf32"
+  },
+  "imageUrl": "https://vapetinhte.com/wp-content/uploads/2019/06/Ijoy-Shogun-JR-4500mAh-Kit-Chính-Hãng-vapetinhte-400x400.jpg",
+  "buyPrice": 900000,
+  "promotionPrice": 750000,
+  "amount": 50,
+  "timeCreated": {
+    "$date": {
+      "$numberLong": "1659638357049"
+    }
+  },
+  "timeUpdated": {
+    "$date": {
+      "$numberLong": "1659638357049"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ec13fe636c180b64162546"
+  },
+  "name": "Snowwolf Mfeng Ux Kit",
+  "description": "SnowWolf MFENG UX kit 200W là một Box mod được chế tạo rất đẹp từ hợp kim kẽm bền bỉ. MFENG UX có công suất 200W, nhưng sở hữu bộ điều khiển nhiệt độ mở rộng với đầy đủ các tùy chọn có thể hoàn thiện hơn mức độ tùy chỉnh trong tìm kiếm làm cho SnowWolf MFENG: UX trở thành một con thú trong làng Box mod. Kèm box là 1 tank MFENG UX có dung tích 4.5ml và dùng cho mesh coils lên vị cực tốt.",
+  "type": {
+    "$oid": "62ec120f08e562b2a0acdf32"
+  },
+  "imageUrl": "https://vapetinhte.com/wp-content/uploads/2020/11/SNOWWOLF-MFENG-UX-KIT-200w-full-color.jpg",
+  "buyPrice": 1000000,
+  "promotionPrice": 900000,
+  "amount": 50,
+  "timeCreated": {
+    "$date": {
+      "$numberLong": "1659638357049"
+    }
+  },
+  "timeUpdated": {
+    "$date": {
+      "$numberLong": "1659638357049"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ec1456636c180b6416254b"
+  },
+  "name": "Lost Vape BTB 100W Kit",
+  "description": "Viết tắt của “Back To Basics”, BTB Lost Vape 100w Starter Kit là một sự trở lại với những gì một hệ thống vape nên có . Kết hợp cơ chế thiết kế hữu ích và các tính năng và chủ đề lý tưởng được đóng gói trong một bộ khởi động. Bên trong khung máy là một chipset độc quyền, cung cấp bộ điều khiển nhiệt độ mở rộng bao gồm khả năng tương thích dây niken, titan và thép không gỉ.",
+  "type": {
+    "$oid": "62ec120f08e562b2a0acdf32"
+  },
+  "imageUrl": "https://vapetinhte.com/wp-content/uploads/2020/11/Lost-Vape-BTB-100W-Kit-Full-color-Chinh-Hang-VapeTinhTe.jpg",
+  "buyPrice": 900000,
+  "promotionPrice": 850000,
+  "amount": 50,
+  "timeCreated": {
+    "$date": {
+      "$numberLong": "1659638357049"
+    }
+  },
+  "timeUpdated": {
+    "$date": {
+      "$numberLong": "1659638357049"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ec14cc636c180b64162550"
+  },
+  "name": "UWELL HAVOK 65W Pod Mod",
+  "description": "Chiến binh #HaVok của nhà #Uwell ♾ tương lai của Podsystem là đây chứ đâu Các bạn vẫn nhớ cơn bão #Valyrian làm mưa làm gió trên thị trường chứ ??? Đây chính là phiên bản cải tiến của e nó kakaka",
+  "type": {
+    "$oid": "62ec121c08e562b2a0acdf35"
+  },
+  "imageUrl": "https://podsystemvn.vn/wp-content/uploads/2021/06/UwellHavokV165WPodModKit-3_1800x1800.jpg",
+  "buyPrice": 900000,
+  "promotionPrice": 850000,
+  "amount": 50,
+  "timeCreated": {
+    "$date": {
+      "$numberLong": "1659638357049"
+    }
+  },
+  "timeUpdated": {
+    "$date": {
+      "$numberLong": "1659638357049"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ec1516636c180b64162555"
+  },
+  "name": "GEEKVAPE Aegis One",
+  "description": "Pod Geekvape Aegis One, có pin 550mAh hoặc 780mAh, 3 mức điện áp đầu ra và cơ chế kích hoạt bằng nút bấm. Được chế tạo từ inox không gỉ, Geekvape Aegis One  có hình dáng mỏng và di động, và cực đẹp về ngoại hình. Là sản phẩm mang công nghệ của Geekvape mang đến hương vị thơm ngon từ eJuice và muối nicotine. Được trang bị đèn báo LED, Pod Geekvape Aegis One có ba mức công suất để cung cấp hơi phù hợp với bất kì anh em vaper nào.",
+  "type": {
+    "$oid": "62ec121c08e562b2a0acdf35"
+  },
+  "imageUrl": "https://podsystemvn.vn/wp-content/uploads/2022/02/one_540x.png",
+  "buyPrice": 600000,
+  "promotionPrice": 550000,
+  "amount": 50,
+  "timeCreated": {
+    "$date": {
+      "$numberLong": "1659638357049"
+    }
+  },
+  "timeUpdated": {
+    "$date": {
+      "$numberLong": "1659638357049"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ec1567636c180b6416255a"
+  },
+  "name": "OXVA Origin Anniversary Edition",
+  "description": "Pod Geekvape Aegis One, có pin 550mAh hoặc 780mAh, 3 mức điện áp đầu ra và cơ chế kích hoạt bằng nút bấm. Được chế tạo từ inox không gỉ, Geekvape Aegis One  có hình dáng mỏng và di động, và cực đẹp về ngoại hình. Là sản phẩm mang công nghệ của Geekvape mang đến hương vị thơm ngon từ eJuice và muối nicotine. Được trang bị đèn báo LED, Pod Geekvape Aegis One có ba mức công suất để cung cấp hơi phù hợp với bất kì anh em vaper nào.",
+  "type": {
+    "$oid": "62ec121c08e562b2a0acdf35"
+  },
+  "imageUrl": "https://podsystemvn.vn/wp-content/uploads/2022/04/Screenshot_1-600x601.png",
+  "buyPrice": 700000,
+  "promotionPrice": 650000,
+  "amount": 50,
+  "timeCreated": {
+    "$date": {
+      "$numberLong": "1659638357049"
+    }
+  },
+  "timeUpdated": {
+    "$date": {
+      "$numberLong": "1659638357049"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ec15c2636c180b6416255f"
+  },
+  "name": "OBS KFB2 Aio Kit",
+  "description": "Khi nói đến Vape thân thiện với người dùng, OBS KFB2 Aio Kit đứng đầu danh sách. Hoạt động bằng một nút bấm nó có nghĩa là bạn có thể dành ít thời gian hơn để lo lắng về mod của mình và có nhiều thời gian hơn để thưởng thức đầy đủ hương vị của muối nic hoặc juice freebase. KFP2 với coil occ 0,6Ohm S1 dành cho FreeBase  và occ 1,2 Ohm N1 dành cho Saltnic. Hoạt động tuyệt vời cho cả  MTL và DTL pin với dung lượng cực lớn 1500mAh cho phép bạn trải nghiệm vaping của mình cả ngày.",
+  "type": {
+    "$oid": "62ec121c08e562b2a0acdf35"
+  },
+  "imageUrl": "https://vapetinhte.com/wp-content/uploads/2020/02/OBS-KFB2-Aio-Kit-2.jpg",
+  "buyPrice": 550000,
+  "promotionPrice": 500000,
+  "amount": 50,
+  "timeCreated": {
+    "$date": {
+      "$numberLong": "1659638357049"
+    }
+  },
+  "timeUpdated": {
+    "$date": {
+      "$numberLong": "1659638357049"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ec1918636c180b641625ad"
+  },
+  "name": "GEEKVAPE WENAX K1",
+  "description": "WENAX K1 mang trong mình dung lượng pin 600mah với cấu trúc dạng thanh gọn nhẹ, được làm bằng hợp kim kẽm phủ sơn tĩnh điện khiến sản phẩm trông cực kì sang trọng.",
+  "type": {
+    "$oid": "62ec121c08e562b2a0acdf35"
+  },
+  "imageUrl": "https://podsystemvn.vn/wp-content/uploads/2021/03/157509205_1592613517599715_5961404082529710527_n-600x601.jpg",
+  "buyPrice": 450000,
+  "promotionPrice": 399000,
+  "amount": 50,
+  "timeCreated": {
+    "$date": {
+      "$numberLong": "1659638357049"
+    }
+  },
+  "timeUpdated": {
+    "$date": {
+      "$numberLong": "1659638357049"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ec196c636c180b641625b8"
+  },
+  "name": "OXVA Xlim V2 Pod Kit",
+  "description": "Thiết kế mới đầu pod trong suốt và hệ thống Anti-Leaking đảm bảo. Không những vậy sử dụng Freebase trên Xlim đã không còn là điều khó vì hãng đã cập nhất thêm đầu pod 0.6ohm để thỏa mãn bất cứ Vaper nào",
+  "type": {
+    "$oid": "62ec121c08e562b2a0acdf35"
+  },
+  "imageUrl": "https://podsystemvn.vn/wp-content/uploads/2021/08/1-600x600.jpg",
+  "buyPrice": 550000,
+  "promotionPrice": 500000,
+  "amount": 50,
+  "timeCreated": {
+    "$date": {
+      "$numberLong": "1659638357049"
+    }
+  },
+  "timeUpdated": {
+    "$date": {
+      "$numberLong": "1659638357049"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ec1a90636c180b641625e7"
+  },
+  "name": "Smoant Pasito Pod Kit",
+  "description": "Lấy thiết kế hơi hướng từ mẫu Vape pod vẫn đang nổi đình đám trên thị trường, Lost Vape Orion. Smoant cho ra mắt sản phẩm Vape Pod Kit mới nhất của mình, Smoant Pasito. Tuy nhiên những cải tiến mà Smoant mang lại là vô cùng tuyệt với. Sản phẩm chính là người đi sau hoàn thiện và hoàn hảo. Pasito có kích thước của một cây vape với cảm giác cầm nắm nhỏ gọn và thuận tiện hơn. Thiết kế dạng hình hộp vuông vắn mạnh mẽ và bắt mắt. Thân máy được làm bằng hợp kim nhôm, loại vật liệu ngành hàng không vũ trụ. Vô cùng chắc chắn nhưng lại cho một trọng lượng nhẹ đáng nể. Thích hợp cho việc di chuyển chuyển nhiều, tính cơ động cao. Panel hoạ tiết trên thân Smoant Pasito được làm bằng kính cường lực với công nghệ CPR. Kính với khả năng chống sước cao, vân hoạ tiết nổi vả sống động. Mặt kính được hoàn thiện chống bám vân tay, dễ lau chùi.",
+  "type": {
+    "$oid": "62ec121c08e562b2a0acdf35"
+  },
+  "imageUrl": "https://vapetinhte.com/wp-content/uploads/2019/07/Smoant-Pasito.jpg",
+  "buyPrice": 600000,
+  "promotionPrice": 550000,
+  "amount": 10,
+  "timeCreated": {
+    "$date": {
+      "$numberLong": "1659638357049"
+    }
+  },
+  "timeUpdated": {
+    "$date": {
+      "$numberLong": "1659638357049"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ec1b16636c180b641625f4"
+  },
+  "name": "SMOK NORD KIT",
+  "description": "Nord tới nay đã ra được gần 1 năm. Nhưng không vì đó mà sức hót của sản phẩm này suy giảm. Số lượng Smok nord được phân phối theo thống kê của nhà sản xuất liên tục tăng. Các bản cập nhật về màu sắc liên tục được hãng Vape Smok đưa ra. Từ những màu cơ bản với vân đá, các bản màu resin cho đến vân cacbon mới nhất. Các phối màu trên mãu Nord từ nhà Smok cũng vô cùng linh hoạt.",
+  "type": {
+    "$oid": "62ec121c08e562b2a0acdf35"
+  },
+  "imageUrl": "https://vapetinhte.com/wp-content/uploads/2019/08/SMOK-Nord-Kit-Chính-hãng-Hà-Nội.jpg",
+  "buyPrice": 380000,
+  "promotionPrice": 350000,
+  "amount": 20,
+  "timeCreated": {
+    "$date": {
+      "$numberLong": "1659638357049"
+    }
+  },
+  "timeUpdated": {
+    "$date": {
+      "$numberLong": "1659638357049"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ec1bde636c180b6416262b"
+  },
+  "name": "Smok RPM4 Pod Kit",
+  "description": "Smok RPM4 60w Kit là sản phẩm mới đến từ nhà RPM, nhỏ gọn hơn và tiện lợi hơn, và đặc biệt thích hợp làm thiết bị cho người mới bắt đầu muốn sử dụng DL vaping . Đầu Pod được thiết kế công thái học đảm bảo mang lại hương vị dễ chịu và thoải mái trong quá trình vaping.",
+  "type": {
+    "$oid": "62ec121c08e562b2a0acdf35"
+  },
+  "imageUrl": "https://vapetinhte.com/wp-content/uploads/2022/04/Smok-RPM4-Pod-Kit-VapeTinhTe-Ha-Noi.jpg",
+  "buyPrice": 850000,
+  "promotionPrice": 800000,
+  "amount": 20,
+  "timeCreated": {
+    "$date": {
+      "$numberLong": "1659638357049"
+    }
+  },
+  "timeUpdated": {
+    "$date": {
+      "$numberLong": "1659638357049"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ec1cf1636c180b64162669"
+  },
+  "name": "Smok Trinity Alpha Kit",
+  "description": "Một loạt các tính năng của các SMOK pod khác được tích hợp vào Trinity. Lần này là một hệ thống pod mở cho phép thay thế nhiều loại lõi Coil Occ linh hoạt. Trinity Alpha không chỉ gây ấn tượng với bạn về thiết kế mà còn cả cách sử dụng thực tế.",
+  "type": {
+    "$oid": "62ec120f08e562b2a0acdf32"
+  },
+  "imageUrl": "https://vapetinhte.com/wp-content/uploads/2019/09/SMOK-Trinity-Alpha-Vapetinhte-Hà-Nội.jpg",
+  "buyPrice": 500000,
+  "promotionPrice": 450000,
+  "amount": 20,
+  "timeCreated": {
+    "$date": {
+      "$numberLong": "1659638357049"
+    }
+  },
+  "timeUpdated": {
+    "$date": {
+      "$numberLong": "1659638357049"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ec1dc1636c180b64162699"
+  },
+  "name": "Smok Nfix-Mate Pod Kit",
+  "description": "Khám phá Hệ thống Pod SMOK NFIX-Mate 25W. Có pin 1100mAh. Phạm vi 1-25W và tương thích với NFIX Meshed và DC MTL Pod. Được chế tạo từ hợp kim kẽm bền. Khung của NFIX-Mate không thấm nước khi bị rơi và rớt nhẹ. Kết hợp Pin 1100mAh khá lớn bên trong. Hệ thống Pod SMOK NFIX-Mate có thể cung cấp nhiều năng lượng cho pod. Tương thích với Dòng NFIX Pod. Đầu Pod này có thể chứa tối đa 3mL tinh dầu Saltnic hoặc Freebbase bên trong. Cung cấp một pod MTL có lưới 0,8ohm hoặc DC chắc chắn cung cấp nhiều hương vị. Tùy thuộc vào loại pod được lắp đặt. Hoạt động dựa trên cơ chế cảm biến tự động. SMOK NFIX-Mate rất dễ sử dụng. Và có một điểm gắn dây buộc để phù hợp với những thiết bị đang di chuyển.",
+  "type": {
+    "$oid": "62ec121c08e562b2a0acdf35"
+  },
+  "imageUrl": "https://vapetinhte.com/wp-content/uploads/2020/11/SMOK-Nfix-mate-25w-pod-kit-chinh-hang-ha-noi.jpg",
+  "buyPrice": 700000,
+  "promotionPrice": 650000,
+  "amount": 20,
+  "timeCreated": {
+    "$date": {
+      "$numberLong": "1659638357049"
+    }
+  },
+  "timeUpdated": {
+    "$date": {
+      "$numberLong": "1659638357049"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ec1ead636c180b641626fe"
+  },
+  "name": "Rincoe Jellybox SE Pod Kit",
+  "description": "Rincoe JELLYBOX SE là một vape pod siêu nhỏ nhưng mạnh mẽ, cũng là sự tiếp nối của dòng Jellybox. Với thiết kế hoàn toàn trong suốt và chức năng mạnh mẽ, bạn sẽ có được trải nghiệm vaping chưa từng có.",
+  "type": {
+    "$oid": "62ec120f08e562b2a0acdf32"
+  },
+  "imageUrl": "https://vapetinhte.com/wp-content/uploads/2022/02/authentic-rincoe-jellybox-se-pod-system-vape-kit-full-clear-500mah-28ml-10ohm.jpg",
+  "buyPrice": 400000,
+  "promotionPrice": 350000,
+  "amount": 20,
+  "timeCreated": {
+    "$date": {
+      "$numberLong": "1659638357049"
+    }
+  },
+  "timeUpdated": {
+    "$date": {
+      "$numberLong": "1659638357049"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ec1f72636c180b64162719"
+  },
+  "name": "Geekvape Aegis Boost Plus",
+  "description": "Geek Vape Aegis BOOST PLUS Kit System, là phiên bản mới và cập nhật của Aegis BOOST. Aegis BOOST PLUS hoàn toàn mới hiện được cung cấp năng lượng bởi một pin 18650 duy nhất với công suất tối đa 40W. Nó được trang bị một chữ ký Geek Vape chữ ký Quân đội IP67 chống sốc, chống bụi và chống nước.",
+  "type": {
+    "$oid": "62ec121c08e562b2a0acdf35"
+  },
+  "imageUrl": "https://vapetinhte.com/wp-content/uploads/2020/11/Geekvape-Aegis-Boost-Plus-40w-Pod-Chinh-Hang-Ha-Noi.jpg",
+  "buyPrice": 900000,
+  "promotionPrice": 850000,
+  "amount": 20,
+  "timeCreated": {
+    "$date": {
+      "$numberLong": "1659638357049"
+    }
+  },
+  "timeUpdated": {
+    "$date": {
+      "$numberLong": "1659638357049"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ec2328636c180b641627be"
+  },
+  "name": "Snowwolf Kfeng Kit",
+  "description": "Snowwolf Kfeng Starter Kit, triển khai pin 2500mAh tích hợp lớn, Chipset thông minh IFV80 tiên tiến và được kết hợp với Tank Sub-Ohm . Snowwolf Mark, tạo ra một bộ khởi động vaping nặng hoàn hảo cho người dùng mới bắt đầu hoặc người dùng cao cấp. Được chế tạo từ khung gầm hợp kim kẽm bền bỉ, Snowwolf KFENG Kit nhỏ gọn và cầm tay cho cảm giác tiện dụng nhưng vẫn giữ logo logo sói 3D nổi bật.",
+  "type": {
+    "$oid": "62ec120f08e562b2a0acdf32"
+  },
+  "imageUrl": "https://vapetinhte.com/wp-content/uploads/2020/02/SnowWolf-Kfeng-starter-Kit-80w-2.jpg",
+  "buyPrice": 900000,
+  "promotionPrice": 850000,
+  "amount": 20,
+  "timeCreated": {
+    "$date": {
+      "$numberLong": "1659638357049"
+    }
+  },
+  "timeUpdated": {
+    "$date": {
+      "$numberLong": "1659638357049"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ec2ac7636c180b64162889"
+  },
+  "name": "Việt Quất - Saltnic EDMUND",
+  "description": "40mg là nồng độ nicotine cao. Phù hợp với kiểu Vape MTL, chơi ít khói nhiều vị, chơi Nicotine. Với tinh dầu Edmund 40mg bạn có thể sử dụng với các loại Vape Pod system như Smok Nord, Smoant Pasito, Zero Pod hay Ijoy Mercury. Các loại mày Coil nhỏ, sử dụng ở dải công suất 8-18W.",
+  "type": {
+    "$oid": "62ec2748636c180b64162845"
+  },
+  "imageUrl": "https://vapetinhte.com/wp-content/uploads/2019/05/Tinh-dau-Edmund-Viet-Quat-Vapetinhte.jpg",
+  "buyPrice": 300000,
+  "promotionPrice": 250000,
+  "amount": 80,
+  "timeCreated": {
+    "$date": {
+      "$numberLong": "1659638357049"
+    }
+  },
+  "timeUpdated": {
+    "$date": {
+      "$numberLong": "1659638357049"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ec2b66636c180b6416289e"
+  },
+  "name": "Vang Nho - Saltnic Grape Wine",
+  "description": "30mg là nồng độ nicotine cao. Phù hợp với kiểu Vape MTL, chơi ít khói nhiều vị, chơi Nicotine. Với tinh dầu Edmund 40mg bạn có thể sử dụng với các loại Vape Pod system như Smok Nord, Smoant Pasito, Zero Pod hay Ijoy Mercury. Các loại mày Coil nhỏ, sử dụng ở dải công suất 8-18W.",
+  "type": {
+    "$oid": "62ec2748636c180b64162845"
+  },
+  "imageUrl": "https://vapetinhte.com/wp-content/uploads/2022/06/Steam-work-vang-nho-30mg-320k.jpg",
+  "buyPrice": 350000,
+  "promotionPrice": 320000,
+  "amount": 80,
+  "timeCreated": {
+    "$date": {
+      "$numberLong": "1659638357049"
+    }
+  },
+  "timeUpdated": {
+    "$date": {
+      "$numberLong": "1659638357049"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ec2be3636c180b641628b6"
+  },
+  "name": "Kem Mật Ong - SaltNic Cubano Silver",
+  "description": "Hương vị: Kem xì gà mật ong béo ngậy. Dung tích: 30ml. Nicotine: 0.3% – 3mg",
+  "type": {
+    "$oid": "62ec2748636c180b64162845"
+  },
+  "imageUrl": "https://vapetinhte.com/wp-content/uploads/2019/06/VGOD-SALTNIC-CUBANO-SILVER-HÀ-NỘI.jpg",
+  "buyPrice": 370000,
+  "promotionPrice": 350000,
+  "amount": 80,
+  "timeCreated": {
+    "$date": {
+      "$numberLong": "1659638357049"
+    }
+  },
+  "timeUpdated": {
+    "$date": {
+      "$numberLong": "1659638357049"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ec2d1f636c180b641628de"
+  },
+  "name": "Head Dâu Kiwi Extra Freeze",
+  "description": "Hương vị: Dâu Kiwi. Dung tích: 100ml. Nicotine: 3mg = 0.3%nicotine , 6mg = 0.6%nicotine",
+  "type": {
+    "$oid": "62ec2748636c180b64162845"
+  },
+  "imageUrl": "https://vapetinhte.com/wp-content/uploads/2021/10/Dau-kiwi-100ml-Head.jpg",
+  "buyPrice": 350000,
+  "promotionPrice": 320000,
+  "amount": 80,
+  "timeCreated": {
+    "$date": {
+      "$numberLong": "1659638357049"
+    }
+  },
+  "timeUpdated": {
+    "$date": {
+      "$numberLong": "1659638357049"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ec2d62636c180b641628eb"
+  },
+  "name": "Táo Kiwi - Sausy Pomme ",
+  "description": "Tinh dầu được sản xuất tại Mỹ . Sausy Pomme là sự kết hợp giữa Táo xanh và Kiwi tạo lên 1 mùi thơm ngọt nhẹ nhàng 1 chút lạnh khiến khói cảm thấy dày đặc hơn .",
+  "type": {
+    "$oid": "62ec2748636c180b64162845"
+  },
+  "imageUrl": "https://vapetinhte.com/wp-content/uploads/2020/12/Tinh-dau-Sausy-Pomme-Kiwi-tao-kiwi-Chinh-Hang-Ha-Noi.jpeg",
+  "buyPrice": 250000,
+  "promotionPrice": 200000,
+  "amount": 80,
+  "timeCreated": {
+    "$date": {
+      "$numberLong": "1659638357049"
+    }
+  },
+  "timeUpdated": {
+    "$date": {
+      "$numberLong": "1659638357049"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ec2dfd636c180b64162913"
+  },
+  "name": "Nho Lạnh - Saltnic EDMUND",
+  "description": "40mg. Hương vị Bạc hà mát lạnh và một chút thuôc lá xì gà.",
+  "type": {
+    "$oid": "62ec2748636c180b64162845"
+  },
+  "imageUrl": "https://vapetinhte.com/wp-content/uploads/2019/10/Edmund-Grape.jpg",
+  "buyPrice": 270000,
+  "promotionPrice": 250000,
+  "amount": 50,
+  "timeCreated": {
+    "$date": {
+      "$numberLong": "1659638357049"
+    }
+  },
+  "timeUpdated": {
+    "$date": {
+      "$numberLong": "1659638357049"
+    }
+  },
+  "__v": 0
+}]
