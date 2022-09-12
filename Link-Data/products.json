@@ -1,576 +1,480 @@
 [{
   "_id": {
-    "$oid": "62ec12d5636c180b6416253c"
+    "$oid": "62e6afd1d224c4b3eb5c4ec1"
   },
-  "name": "Rincoe Jellybox Mini 80W Kit",
-  "description": "Rincoe Jellybox Mini Box Mod được làm bằng hợp kim kẽm bền và PC cao cấp, chắc chắn và chống rơi. Toàn bộ máy áp dụng thiết kế trong suốt độc đáo từ xe tăng đến bản mod, mang lại tính thẩm mỹ tuyệt đẹp và tác động thị giác mạnh mẽ.",
+  "name": "G-SHOCK GA-2200NN-1A",
+  "description": "Truyền điện cho phong cách của bạn nào! Xin giới thiệu chiếc G-SHOCK mới bằng nhựa resin trong suốt, in hoạ tiết nhiều góc, và lấp lánh ánh sáng của kỷ nguyên kỹ thuật số. Hàng chính hãng",
   "type": {
-    "$oid": "62ec120f08e562b2a0acdf32"
+    "$oid": "62e6ada1a9f249219d74ed02"
   },
-  "imageUrl": "https://vapetinhte.com/wp-content/uploads/2020/12/Rincoe-Jellybox-Mini-80W-Kit-Full-color-vapetinhte.jpg",
-  "buyPrice": 950000,
-  "promotionPrice": 850000,
-  "amount": 50,
+  "imageUrl": "https://www.casio-vietnam.vn/wp-content/uploads/2022/07/GA-2200NN-1A.jpg",
+  "buyPrice": 300,
+  "promotionPrice": 250,
+  "amount": 20,
   "timeCreated": {
     "$date": {
-      "$numberLong": "1659638357049"
+      "$numberLong": "1659285448225"
     }
   },
   "timeUpdated": {
     "$date": {
-      "$numberLong": "1659638357049"
+      "$numberLong": "1659285448225"
     }
   },
   "__v": 0
 },{
   "_id": {
-    "$oid": "62ec1377636c180b64162541"
+    "$oid": "62e757fe2a41005e932496dd"
   },
-  "name": "Ijoy Shogun JR Kit",
-  "description": "IJoy Shogun Jr Kit là một vape kit nhỏ gọn và có ngoại hình đẹp ấn tượng với những đường cắt trên thân máy và lớp vỏ resin được gia công rất đẹp. Box Mod Shogun Jr có công suất tối đa 126W và sở hữu 02 pin gắn trong thân với dung lượng lên đến 4500mah, trái tim của Shogun Jr Box Mod là chip-set UNIV, một con chip cực kỳ an toàn và hiệu năng rất đáng kinh ngạc của IJoy. Đi kèm cùng kit là Shogun Subohm Tank được trang bị coil occ mesh coil 0.2ohm kiểu mới nhất, dung tích bình tinh dầu lớn đến 6ml đủ cho ngày dài sử dụng.",
+  "name": "G-SHOCK GA-110SR-1A",
+  "description": "Đắm chìm trong màu sắc lấp lánh rực rỡ của chiếc G-SHOCK đầu tiên, với bề mặt kính loang màu toàn bộ gợi lên hình ảnh ánh nắng phản chiếu. Kỹ thuật lắng hơi màu cầu vồng tái hiện bầu trời mùa hè buổi xế chiều, thay đổi sắc độ từng phút từng giây theo ánh sáng mặt trời. Mỗi mặt kính lại lấp lánh một ánh sáng riêng, mang đến chiếc đồng hồ có một không hai, mỗi chiếc đều có sắc màu riêng biệt. * Sản phẩm thực tế có thể khác với hình ảnh minh hoạ. * Vì các mẫu này có mặt kính được xử lý đặc biệt, nên mặt số có thể dễ đọc hơn ở những góc nhìn nhất định.",
   "type": {
-    "$oid": "62ec120f08e562b2a0acdf32"
+    "$oid": "62e6ada1a9f249219d74ed02"
   },
-  "imageUrl": "https://vapetinhte.com/wp-content/uploads/2019/06/Ijoy-Shogun-JR-4500mAh-Kit-Chính-Hãng-vapetinhte-400x400.jpg",
-  "buyPrice": 900000,
-  "promotionPrice": 750000,
-  "amount": 50,
+  "imageUrl": "https://www.casio-vietnam.vn/wp-content/uploads/2022/07/GA-110SR-1A.jpg",
+  "buyPrice": 260,
+  "promotionPrice": 220,
+  "amount": 20,
   "timeCreated": {
     "$date": {
-      "$numberLong": "1659638357049"
+      "$numberLong": "1659326176976"
     }
   },
   "timeUpdated": {
     "$date": {
-      "$numberLong": "1659638357049"
+      "$numberLong": "1659326176976"
     }
   },
   "__v": 0
 },{
   "_id": {
-    "$oid": "62ec13fe636c180b64162546"
+    "$oid": "62e758502a41005e932496e6"
   },
-  "name": "Snowwolf Mfeng Ux Kit",
-  "description": "SnowWolf MFENG UX kit 200W là một Box mod được chế tạo rất đẹp từ hợp kim kẽm bền bỉ. MFENG UX có công suất 200W, nhưng sở hữu bộ điều khiển nhiệt độ mở rộng với đầy đủ các tùy chọn có thể hoàn thiện hơn mức độ tùy chỉnh trong tìm kiếm làm cho SnowWolf MFENG: UX trở thành một con thú trong làng Box mod. Kèm box là 1 tank MFENG UX có dung tích 4.5ml và dùng cho mesh coils lên vị cực tốt.",
+  "name": "G-SHOCK DW-5600NN-1",
+  "description": "Truyền điện cho phong cách của bạn nào! Xin giới thiệu chiếc G-SHOCK mới bằng nhựa resin trong suốt, in hoạ tiết nhiều góc, và lấp lánh ánh sáng của kỷ nguyên kỹ thuật số.",
   "type": {
-    "$oid": "62ec120f08e562b2a0acdf32"
+    "$oid": "62e6ada1a9f249219d74ed02"
   },
-  "imageUrl": "https://vapetinhte.com/wp-content/uploads/2020/11/SNOWWOLF-MFENG-UX-KIT-200w-full-color.jpg",
-  "buyPrice": 1000000,
-  "promotionPrice": 900000,
-  "amount": 50,
+  "imageUrl": "https://www.casio-vietnam.vn/wp-content/uploads/2022/07/DW-5600NN-1.jpg",
+  "buyPrice": 240,
+  "promotionPrice": 220,
+  "amount": 20,
   "timeCreated": {
     "$date": {
-      "$numberLong": "1659638357049"
+      "$numberLong": "1659326176976"
     }
   },
   "timeUpdated": {
     "$date": {
-      "$numberLong": "1659638357049"
+      "$numberLong": "1659326176976"
     }
   },
   "__v": 0
 },{
   "_id": {
-    "$oid": "62ec1456636c180b6416254b"
+    "$oid": "62e758a72a41005e932496ef"
   },
-  "name": "Lost Vape BTB 100W Kit",
-  "description": "Viết tắt của “Back To Basics”, BTB Lost Vape 100w Starter Kit là một sự trở lại với những gì một hệ thống vape nên có . Kết hợp cơ chế thiết kế hữu ích và các tính năng và chủ đề lý tưởng được đóng gói trong một bộ khởi động. Bên trong khung máy là một chipset độc quyền, cung cấp bộ điều khiển nhiệt độ mở rộng bao gồm khả năng tương thích dây niken, titan và thép không gỉ.",
+  "name": "G-SHOCK GMW-B5000TVB-1",
+  "description": "Nâng trình với chiếc đồng hồ hoàn toàn nghiêm túc này. Chiếc GMW-B5000 trực tiếp kế thừa chiếc G-SHOCK đầu tiên, giờ được trang bị vỏ kim loại. Mẫu đồng hồ GMW-B5000TVB lấy cảm hứng từ thế giới ảo. Được làm bằng titan, chiếc đồng hồ này vừa bền chắc lại vừa nhẹ. Các lỗ vấu trên đường gờ để lộ lớp vỏ và lớp đệm bằng nhựa resin bên dưới, tạo nên phong cách thiết kế mang hơi hướng tương lai. Hoạ tiết nguỵ trang hình học trên lớp mạ ion màu đen và nâu kết hợp công nghệ hoàn thiện màu tăng dần để có được vẻ đẹp của công cụ ảo cao cấp. Với các con số và thông số khắc laser trên đường gờ và dây đeo, chiếc GMW-B5000TVB mang phong cách đồ hoạ game và khoa học viễn tưởng vào thế giới thực.",
   "type": {
-    "$oid": "62ec120f08e562b2a0acdf32"
+    "$oid": "62e6ada1a9f249219d74ed02"
   },
-  "imageUrl": "https://vapetinhte.com/wp-content/uploads/2020/11/Lost-Vape-BTB-100W-Kit-Full-color-Chinh-Hang-VapeTinhTe.jpg",
-  "buyPrice": 900000,
-  "promotionPrice": 850000,
-  "amount": 50,
+  "imageUrl": "https://www.casio-vietnam.vn/wp-content/uploads/2022/06/GMW-B5000TVB-1.jpg",
+  "buyPrice": 330,
+  "promotionPrice": 290,
+  "amount": 20,
   "timeCreated": {
     "$date": {
-      "$numberLong": "1659638357049"
+      "$numberLong": "1659326176976"
     }
   },
   "timeUpdated": {
     "$date": {
-      "$numberLong": "1659638357049"
+      "$numberLong": "1659326176976"
     }
   },
   "__v": 0
 },{
   "_id": {
-    "$oid": "62ec14cc636c180b64162550"
+    "$oid": "62e759bd2a41005e932496f8"
   },
-  "name": "UWELL HAVOK 65W Pod Mod",
-  "description": "Chiến binh #HaVok của nhà #Uwell ♾ tương lai của Podsystem là đây chứ đâu Các bạn vẫn nhớ cơn bão #Valyrian làm mưa làm gió trên thị trường chứ ??? Đây chính là phiên bản cải tiến của e nó kakaka",
+  "name": "BABY-G BGA-280AP-7A",
+  "description": "Từ cuối những năm 1990, các mẫu hợp tác của G-SHOCK và BABY-G đã hỗ trợ hoạt động của một số tổ chức về môi trường. Năm 2022, G-SHOCK và BABY-G tiếp tục hợp tác với tổ chức phi lợi nhuận Aqua Planet để vinh danh những nỗ lực của tổ chức này suốt hàng thập kỉ qua trong việc bảo tồn những rạn san hô kì vĩ của chúng ta. Nhằm gợi lên màu sắc rực rỡ và bề mặt rẻ quạt trải rộng của san hô cành dương, chiếc đồng hồ này có những sắc màu đẹp mắt của làn nước biển trong xanh, tương phản đầy sống động với những sắc độ màu hồng của mặt số cùng một dải màu đỏ tươi. Năm nhánh san hô điểm trên mặt đồng hồ đánh dấu mẫu hợp tác thứ năm giữa Casio và Aqua Planet. Logo Aqua Plant, các thông điệp One Ocean, One Future và khẩu hiệu Love the Sea And The Earth in trên dây đeo, cũng như biểu tượng khẩu hiệu khắc trên mặt sau vỏ đều là những lời nhắc nhở nhẹ nhàng về tầm quan trọng của đại dương. Hãy khẳng định cam kết bảo vệ những vùng “biển bạc” của chúng ta và những sinh vật quý hiếm sống trong đó với mẫu đồng hồ hợp tác thực sự đặc biệt này. Nói không với nhựa, chiếc đồng hồ được gói gọn trong chiếc hộp làm bằng giấy tái chế và túi rút có thể tái sử dụng bằng vải bông 100%. AQUA PLANET là tổ chức phi lợi nhuận chuyên bảo tồn các rạn san hô. Tổ chức này tham gia nhiều nỗ lực hợp tác bảo tồn, trong đó có cấy ghép san hô tại Chatan (trên hòn đảo chính của Okinawa) và nuôi trồng san hô trên đảo Ishigaki.",
   "type": {
-    "$oid": "62ec121c08e562b2a0acdf35"
+    "$oid": "62e6add3a9f249219d74ed04"
   },
-  "imageUrl": "https://podsystemvn.vn/wp-content/uploads/2021/06/UwellHavokV165WPodModKit-3_1800x1800.jpg",
-  "buyPrice": 900000,
-  "promotionPrice": 850000,
-  "amount": 50,
+  "imageUrl": "https://www.casio-vietnam.vn/wp-content/uploads/2022/07/BGA-280AP-7A.jpg",
+  "buyPrice": 200,
+  "promotionPrice": 190,
+  "amount": 20,
   "timeCreated": {
     "$date": {
-      "$numberLong": "1659638357049"
+      "$numberLong": "1659326176976"
     }
   },
   "timeUpdated": {
     "$date": {
-      "$numberLong": "1659638357049"
+      "$numberLong": "1659326176976"
     }
   },
   "__v": 0
 },{
   "_id": {
-    "$oid": "62ec1516636c180b64162555"
+    "$oid": "62e75b2d2a41005e93249701"
   },
-  "name": "GEEKVAPE Aegis One",
-  "description": "Pod Geekvape Aegis One, có pin 550mAh hoặc 780mAh, 3 mức điện áp đầu ra và cơ chế kích hoạt bằng nút bấm. Được chế tạo từ inox không gỉ, Geekvape Aegis One  có hình dáng mỏng và di động, và cực đẹp về ngoại hình. Là sản phẩm mang công nghệ của Geekvape mang đến hương vị thơm ngon từ eJuice và muối nicotine. Được trang bị đèn báo LED, Pod Geekvape Aegis One có ba mức công suất để cung cấp hơi phù hợp với bất kì anh em vaper nào.",
+  "name": "BABY-G BSA-B100CS-3A",
+  "description": "Thỏa sự yêu thích dành cho BABY-G và niềm đam mê tập luyện với chiếc đồng hồ thể thao có thể đồng bộ hóa với thiết bị di động của bạn, giúp bạn nâng cao hiệu quả tập luyện hàng ngày. Đeo lên tay mẫu đồng hồ màu pastel đơn sắc mềm mại với điểm nhấn là các vạch chỉ giờ bằng kim loại. Những chiếc đồng hồ vừa thời trang vừa thiết thực này sở hữu lớp vỏ mỏng được thiết kế để không cản trợ bạn tập luyện, lại có cả hai đèn LED tự động chiếu sáng cho bạn tập luyện khi ở trong bóng tối. Kiểm soát các hoạt động luyện tập thể dục thể thao hàng ngày với sự hỗ trợ luyện tập thông minh. Các mẫu đồng hồ BABY-G này được trang bị một bộ đếm bước, một đồng hồ bấm giờ cho phép bạn tính giờ cho đến 5 x 20 bài tập, bộ nhớ vòng chạy ghi được đến 200 vòng và tính năng nhắc nhở số bước để bạn không ngồi quá lâu. Đồng bộ hóa với điện thoại thông minh qua Bluetooth® để thao tác dễ dàng với đồng hồ. Chỉ cần nhấn vào ứng dụng BABY-G Connected là bạn có thể dễ dàng quản lý nhật ký hoạt động hàng ngày và các chế độ cài đặt luyện tập từ điện thoại. Tính toán lượng calo, đặt mục tiêu số bước và thậm chí tạo và chuyển menu bộ hẹn giờ, ghi lại số bước với 5 mức cường độ tập luyện, lưu trữ dữ liệu đo bằng đồng hồ bấm giờ và xem tất cả dữ liệu lịch. Một chiếc đồng hồ thể thao đeo tay giúp bạn có được cuộc sống năng động, lành mạnh.",
   "type": {
-    "$oid": "62ec121c08e562b2a0acdf35"
+    "$oid": "62e6add3a9f249219d74ed04"
   },
-  "imageUrl": "https://podsystemvn.vn/wp-content/uploads/2022/02/one_540x.png",
-  "buyPrice": 600000,
-  "promotionPrice": 550000,
-  "amount": 50,
+  "imageUrl": "https://www.casio-vietnam.vn/wp-content/uploads/2022/07/BSA-B100CS-3A.jpg",
+  "buyPrice": 220,
+  "promotionPrice": 200,
+  "amount": 20,
   "timeCreated": {
     "$date": {
-      "$numberLong": "1659638357049"
+      "$numberLong": "1659326176976"
     }
   },
   "timeUpdated": {
     "$date": {
-      "$numberLong": "1659638357049"
+      "$numberLong": "1659326176976"
     }
   },
   "__v": 0
 },{
   "_id": {
-    "$oid": "62ec1567636c180b6416255a"
+    "$oid": "62e75bfa2a41005e9324970a"
   },
-  "name": "OXVA Origin Anniversary Edition",
-  "description": "Pod Geekvape Aegis One, có pin 550mAh hoặc 780mAh, 3 mức điện áp đầu ra và cơ chế kích hoạt bằng nút bấm. Được chế tạo từ inox không gỉ, Geekvape Aegis One  có hình dáng mỏng và di động, và cực đẹp về ngoại hình. Là sản phẩm mang công nghệ của Geekvape mang đến hương vị thơm ngon từ eJuice và muối nicotine. Được trang bị đèn báo LED, Pod Geekvape Aegis One có ba mức công suất để cung cấp hơi phù hợp với bất kì anh em vaper nào.",
+  "name": "BABY-G BGD-565KRS-7",
+  "description": "Xin giới thiệu mẫu hợp tác giữa BABY-G, dòng đồng hồ phổ thông cho những cô gái năng động, và KIRSH®, thương hiệu thời trang Hàn Quốc nổi tiếng với logo hình hai trái anh đào. Mẫu cơ sở là chính là chiếc BABY-G BGD-565 đã trở thành biểu tượng. Thiết kế lấy cảm hứng từ bề mặt màu trắng matte trong mờ của đồ chơi và phụ kiện phổ biến những năm 90, đối chọi với biểu tượng trái anh đào của KIRSH, biểu tượng chữ G của BABY-G, và logo đặc trưng của KIRSH trên dây đeo. Biểu tượng trái anh đào của KIRSH cũng có trên mặt đồng hồ, và hình ảnh trái anh đào xuất hiện trên màn hình bất cứ khi nào bật đèn. Biểu tượng này còn được khắc trên nắp sau của đồng hồ. Đồng hồ có cả dây đeo thay thế bằng nhựa resin màu xám matte trong mờ, để bạn có thể thay đổi theo tâm trạng hay phong cách thời trang. Dây đeo dạng gạt nút giúp bạn dễ dàng tháo lắp, chỉ cần gạt nút là xong. Bao bì của đồng hồ được thiết kế để làm nổi bật tình thần của mẫu hợp tác đặc biệt. Mẫu đồng hồ hợp tác mới này là một sản phẩm sáng tạo đỉnh cao kết hợp phong cách thời trang đường phố cùng thiết kế thể thao. KIRSH® Thành lập năm 2008, KIRSH® là một thương hiệu thời trang đường phố và mỹ phẩm của Hàn Quốc. Hãng nổi tiếng với dòng Big Cherry Sweatshirt, mang hoạ tiết trái anh đào lớn. Hãng trở nên nổi tiếng như cồn, đặc biệt với thanh thiếu niên và giới trẻ, sau khi nhiều người nổi tiếng và nghệ sĩ mặc áo này trên các chương trình truyền hình tạp kĩ. KIRSH hiện đang được chú ý như là thương hiệu hot nhất ở Hàn Quốc.",
   "type": {
-    "$oid": "62ec121c08e562b2a0acdf35"
+    "$oid": "62e6add3a9f249219d74ed04"
   },
-  "imageUrl": "https://podsystemvn.vn/wp-content/uploads/2022/04/Screenshot_1-600x601.png",
-  "buyPrice": 700000,
-  "promotionPrice": 650000,
-  "amount": 50,
+  "imageUrl": "https://www.casio-vietnam.vn/wp-content/uploads/2022/07/BGD-565KRS-7.jpg",
+  "buyPrice": 280,
+  "promotionPrice": 255,
+  "amount": 20,
   "timeCreated": {
     "$date": {
-      "$numberLong": "1659638357049"
+      "$numberLong": "1659326176976"
     }
   },
   "timeUpdated": {
     "$date": {
-      "$numberLong": "1659638357049"
+      "$numberLong": "1659326176976"
     }
   },
   "__v": 0
 },{
   "_id": {
-    "$oid": "62ec15c2636c180b6416255f"
+    "$oid": "62e75cc22a41005e93249715"
   },
-  "name": "OBS KFB2 Aio Kit",
-  "description": "Khi nói đến Vape thân thiện với người dùng, OBS KFB2 Aio Kit đứng đầu danh sách. Hoạt động bằng một nút bấm nó có nghĩa là bạn có thể dành ít thời gian hơn để lo lắng về mod của mình và có nhiều thời gian hơn để thưởng thức đầy đủ hương vị của muối nic hoặc juice freebase. KFP2 với coil occ 0,6Ohm S1 dành cho FreeBase  và occ 1,2 Ohm N1 dành cho Saltnic. Hoạt động tuyệt vời cho cả  MTL và DTL pin với dung lượng cực lớn 1500mAh cho phép bạn trải nghiệm vaping của mình cả ngày.",
+  "name": "BABY-G MSG-C150G-1A",
+  "description": "Hoa văn mặt số hình góc phần tư với các đường kẻ dọc và ngang được nâng lên làm nổi bật sự tương phản giữa ánh sáng và bóng tối, tạo ra độ tương phản và tăng chiều sâu cũng như vẻ đẹp. Với dây đeo bằng nhựa dáng vẻ thể thao và khả năng chống nước ở độ sâu tới 100 mét, đây là sự tinh tế tối ưu.",
   "type": {
-    "$oid": "62ec121c08e562b2a0acdf35"
+    "$oid": "62e6add3a9f249219d74ed04"
   },
-  "imageUrl": "https://vapetinhte.com/wp-content/uploads/2020/02/OBS-KFB2-Aio-Kit-2.jpg",
-  "buyPrice": 550000,
-  "promotionPrice": 500000,
-  "amount": 50,
+  "imageUrl": "https://www.casio-vietnam.vn/wp-content/uploads/2021/10/MSG-C150G-1A.png",
+  "buyPrice": 400,
+  "promotionPrice": 395,
+  "amount": 20,
   "timeCreated": {
     "$date": {
-      "$numberLong": "1659638357049"
+      "$numberLong": "1659326176976"
     }
   },
   "timeUpdated": {
     "$date": {
-      "$numberLong": "1659638357049"
+      "$numberLong": "1659326176976"
     }
   },
   "__v": 0
 },{
   "_id": {
-    "$oid": "62ec1918636c180b641625ad"
+    "$oid": "62e75d602a41005e93249726"
   },
-  "name": "GEEKVAPE WENAX K1",
-  "description": "WENAX K1 mang trong mình dung lượng pin 600mah với cấu trúc dạng thanh gọn nhẹ, được làm bằng hợp kim kẽm phủ sơn tĩnh điện khiến sản phẩm trông cực kì sang trọng.",
+  "name": "G-SHOCK GBX-100KI-1",
+  "description": "Giới thiệu chiếc đồng hồ G-SHOCK thứ hai mang đặc trưng của Kanoa Igarashi. Lướt trên những con sóng với chiếc đồng hồ đặc biệt, được thiết kế với sự hợp tác của ngôi sao lướt sóng chuyên nghiệp thuộc BIỆT ĐỘI G-SHOCK. Chiếc đồng hồ này chỉ độc một màu đen huyền bí. Chúng tôi lấy màu đen tuyền làm cơ sở để bắt đầu thiết kế, và theo yêu cầu của Kanoa, cả vỏ, dây đeo lẫn màn hình LCD cũng đều được hoàn thiện bằng các sắc thái màu đen. Màn hình LCD sử dụng công nghệ Bộ nhớ trong pixel (MIP) đem đến khả năng hiển thị sáng rõ chưa từng thấy. Kiểm tra đồ thị thủy triều, tuần trăng, thời gian và mức thủy triều cao/thấp, và thời gian bình minh/hoàng hôn — tất cả trong nháy mắt. Đường gờ và mặt kính đồng hồ mang hình ảnh chính Kanoa đang lướt ván trong lòng một ngọn sóng lớn là điểm nhấn đem lại nguồn cảm hứng cho những vận động viên lướt sóng triển vọng sẵn sàng đương đầu với biển khơi. ■Kanoa Igarashi sinh ngày 1 tháng 10 năm 1997 tại California, Hoa Kỳ. Thời thơ ấu của Igarashi gắn liền với những ngày dõi theo ba mình lướt sóng ở thành phố Huntington Beach, bang California. Năm anh lên 3 tuổi, anh thấy mình xem vậy đã đủ, vì vậy anh quyết định tự mình đến với những con sóng. Anh bộc lộ năng khiếu của bản thân ngay từ những ngày đầu tiên và nhanh chóng giành được sự chú ý của cộng đồng lướt sóng. Năm 2009, khi anh mới 11 tuổi, danh tiếng của Igarashi đã lan rộng khắp Hiệp hội Lướt sóng Quốc gia dành cho Thanh thiếu niên (NSSA) bằng việc thắng 30 cuộc thi, phá kỷ lục giành nhiều chiến thắng nhất trong một mùa giải. Năm 2012, ở tuổi 14, anh trở thành vận động viên trẻ tuổi nhất thắng giải vô địch U18 của Hoa Kỳ. Bốn năm sau, anh trở thành vận động viên châu Á đầu tiên đồng thời là vận động viên trẻ nhất từng tham gia giải vô địch Liên đoàn Lướt sóng Thế giới (WSL). Năm 2017, Igarashi thắng giải lướt sóng WSL Vans Hoa Kỳ mở rộng, tổ chức ngay tại thành phố quê nhà Huntington Beach, và tiếp tục chứng minh năng lực của mình cho cả thế giới thấy. Năm 2019, anh là vận động viên châu Á đầu tiên giành chiến thắng tại Corona Bali Protected, sự kiện thứ ba của giải vô địch lướt sóng nam. Năm 2021, Igarashi đại diện đội tuyển Nhật Bản tham gia thi đấu ở bộ môn lướt sóng tại Thế vận hội Tokyo 2020 và giành được huy chương bạc.",
   "type": {
-    "$oid": "62ec121c08e562b2a0acdf35"
+    "$oid": "62e6ada1a9f249219d74ed02"
   },
-  "imageUrl": "https://podsystemvn.vn/wp-content/uploads/2021/03/157509205_1592613517599715_5961404082529710527_n-600x601.jpg",
-  "buyPrice": 450000,
-  "promotionPrice": 399000,
-  "amount": 50,
+  "imageUrl": "https://www.casio-vietnam.vn/wp-content/uploads/2022/06/GBX-100KI-1.jpg",
+  "buyPrice": 500,
+  "promotionPrice": 485,
+  "amount": 20,
   "timeCreated": {
     "$date": {
-      "$numberLong": "1659638357049"
+      "$numberLong": "1659326176976"
     }
   },
   "timeUpdated": {
     "$date": {
-      "$numberLong": "1659638357049"
+      "$numberLong": "1659326176976"
     }
   },
   "__v": 0
 },{
   "_id": {
-    "$oid": "62ec196c636c180b641625b8"
+    "$oid": "62e75dc22a41005e93249729"
   },
-  "name": "OXVA Xlim V2 Pod Kit",
-  "description": "Thiết kế mới đầu pod trong suốt và hệ thống Anti-Leaking đảm bảo. Không những vậy sử dụng Freebase trên Xlim đã không còn là điều khó vì hãng đã cập nhất thêm đầu pod 0.6ohm để thỏa mãn bất cứ Vaper nào",
+  "name": "G-SHOCK GMA-S120GS-3A",
+  "description": "Ánh kim tỏa sáng với nét chấm phá hiện đại, kích thước nhỏ hơn một chút để những ai có cổ tay nhỏ có thể đeo vừa vặn. Thiết kế nhỏ gọn dựa trên đồng hồ GA-110 và GA-120 phổ biến đem đến vẻ đẹp óng ánh của kim loại cho đồng hồ G-SHOCK kết hợp kim-số vốn được ưa chuộng. Dây đeo và vỏ xuyên thấu màu xám hoặc xanh lá nhạt kết hợp với các thành phần mặt số hai tông màu vàng và bạc tạo nên phong cách hiện đại, cân bằng và linh hoạt.",
   "type": {
-    "$oid": "62ec121c08e562b2a0acdf35"
+    "$oid": "62e6ada1a9f249219d74ed02"
   },
-  "imageUrl": "https://podsystemvn.vn/wp-content/uploads/2021/08/1-600x600.jpg",
-  "buyPrice": 550000,
-  "promotionPrice": 500000,
-  "amount": 50,
+  "imageUrl": "https://www.casio-vietnam.vn/wp-content/uploads/2022/06/GMA-S120GS-3A.jpg",
+  "buyPrice": 420,
+  "promotionPrice": 405,
+  "amount": 20,
   "timeCreated": {
     "$date": {
-      "$numberLong": "1659638357049"
+      "$numberLong": "1659326176976"
     }
   },
   "timeUpdated": {
     "$date": {
-      "$numberLong": "1659638357049"
+      "$numberLong": "1659326176976"
     }
   },
   "__v": 0
 },{
   "_id": {
-    "$oid": "62ec1a90636c180b641625e7"
+    "$oid": "62e75e352a41005e93249732"
   },
-  "name": "Smoant Pasito Pod Kit",
-  "description": "Lấy thiết kế hơi hướng từ mẫu Vape pod vẫn đang nổi đình đám trên thị trường, Lost Vape Orion. Smoant cho ra mắt sản phẩm Vape Pod Kit mới nhất của mình, Smoant Pasito. Tuy nhiên những cải tiến mà Smoant mang lại là vô cùng tuyệt với. Sản phẩm chính là người đi sau hoàn thiện và hoàn hảo. Pasito có kích thước của một cây vape với cảm giác cầm nắm nhỏ gọn và thuận tiện hơn. Thiết kế dạng hình hộp vuông vắn mạnh mẽ và bắt mắt. Thân máy được làm bằng hợp kim nhôm, loại vật liệu ngành hàng không vũ trụ. Vô cùng chắc chắn nhưng lại cho một trọng lượng nhẹ đáng nể. Thích hợp cho việc di chuyển chuyển nhiều, tính cơ động cao. Panel hoạ tiết trên thân Smoant Pasito được làm bằng kính cường lực với công nghệ CPR. Kính với khả năng chống sước cao, vân hoạ tiết nổi vả sống động. Mặt kính được hoàn thiện chống bám vân tay, dễ lau chùi.",
+  "name": "G-SHOCK MTG-B2000XMG-1A",
+  "description": "Xin giới thiệu phong cách núi rừng thần bí nhiều màu sắc — vẻ cứng cỏi, bụi bặm toát lên từ sự kết hợp giữa kim loại, carbon và nhựa resin. Lấy cảm hứng từ hoa văn nhiều tầng hùng vĩ của Núi Cầu Vồng, chiếc đồng hồ đặc biệt MTG-B2000 này được thiết kế để tạo nên tác động tối đa. Đường gờ nhiều màu sắc làm từ resin được gia cố bằng carbon, đúc từ nhiều tấm carbon và sợi thuỷ tinh ép vào nhau. Sức mạnh thô sơ của carbon và sợi thuỷ tinh cùng những hoa văn ngẫu nhiên được tạo thành khi cắt đường gờ đem đến chiếc đồng hồ có một không hai, mạnh mẽ mà lại rất nhẹ, mỗi chiếc có hoa văn màu sắc riêng không đụng hàng. Gờ carbon nhiều màu, đường gờ mạ ion cầu vồng, lớp mạ ion vàng hồng và dây đeo màu xanh lam trong mờ kết hợp lại để tái hiện sự oxi hoá kim loại từ hoạt động của núi lửa và sự dịch chuyển các mảng kiến tạo, trong một vẻ đẹp hút hồn đầy tính nghệ thuật của Trái Đất.",
   "type": {
-    "$oid": "62ec121c08e562b2a0acdf35"
+    "$oid": "62e6ada1a9f249219d74ed02"
   },
-  "imageUrl": "https://vapetinhte.com/wp-content/uploads/2019/07/Smoant-Pasito.jpg",
-  "buyPrice": 600000,
-  "promotionPrice": 550000,
+  "imageUrl": "https://www.casio-vietnam.vn/wp-content/uploads/2022/06/MTG-B2000XMG-1A.jpg",
+  "buyPrice": 2200,
+  "promotionPrice": 1995,
   "amount": 10,
   "timeCreated": {
     "$date": {
-      "$numberLong": "1659638357049"
+      "$numberLong": "1659326176976"
     }
   },
   "timeUpdated": {
     "$date": {
-      "$numberLong": "1659638357049"
+      "$numberLong": "1659326176976"
     }
   },
   "__v": 0
 },{
   "_id": {
-    "$oid": "62ec1b16636c180b641625f4"
+    "$oid": "62e75edc2a41005e9324973b"
   },
-  "name": "SMOK NORD KIT",
-  "description": "Nord tới nay đã ra được gần 1 năm. Nhưng không vì đó mà sức hót của sản phẩm này suy giảm. Số lượng Smok nord được phân phối theo thống kê của nhà sản xuất liên tục tăng. Các bản cập nhật về màu sắc liên tục được hãng Vape Smok đưa ra. Từ những màu cơ bản với vân đá, các bản màu resin cho đến vân cacbon mới nhất. Các phối màu trên mãu Nord từ nhà Smok cũng vô cùng linh hoạt.",
+  "name": "G-SHOCK GA-100BP-1A",
+  "description": "Đồng hồ G-SHOCK vừa tinh tế vừa góc cạnh, màu xanh đậm với họa tiết paisley và kết cấu vô cùng cứng cáp. Dòng đồng hồ Paisley Blue màu đen và xanh dương nổi bật, có mặt số in họa tiết đặc trưng đã trở nên phổ biến nhờ phong cách thời trang và thiết thực của chiếc khăn bandana.",
   "type": {
-    "$oid": "62ec121c08e562b2a0acdf35"
+    "$oid": "62e6ada1a9f249219d74ed02"
   },
-  "imageUrl": "https://vapetinhte.com/wp-content/uploads/2019/08/SMOK-Nord-Kit-Chính-hãng-Hà-Nội.jpg",
-  "buyPrice": 380000,
-  "promotionPrice": 350000,
+  "imageUrl": "https://www.casio-vietnam.vn/wp-content/uploads/2022/06/GA-100BP-1A.jpg",
+  "buyPrice": 400,
+  "promotionPrice": 390,
   "amount": 20,
   "timeCreated": {
     "$date": {
-      "$numberLong": "1659638357049"
+      "$numberLong": "1659326176976"
     }
   },
   "timeUpdated": {
     "$date": {
-      "$numberLong": "1659638357049"
+      "$numberLong": "1659326176976"
     }
   },
   "__v": 0
 },{
   "_id": {
-    "$oid": "62ec1bde636c180b6416262b"
+    "$oid": "62e75f902a41005e93249744"
   },
-  "name": "Smok RPM4 Pod Kit",
-  "description": "Smok RPM4 60w Kit là sản phẩm mới đến từ nhà RPM, nhỏ gọn hơn và tiện lợi hơn, và đặc biệt thích hợp làm thiết bị cho người mới bắt đầu muốn sử dụng DL vaping . Đầu Pod được thiết kế công thái học đảm bảo mang lại hương vị dễ chịu và thoải mái trong quá trình vaping.",
+  "name": "BABY-G SLV-21B-2",
+  "description": "Tăng gấp đôi niềm vui mùa hè với cặp đồng hồ G-SHOCK/BABY-G phiên bản giới hạn, lấy cảm hứng từ làn nước biển đầy nắng.Bạn và người đặc biệt của bạn có thích thư giãn và vui chơi trên bãi biển không? Hay là hai bạn thích lặn ngụp với ống thở hoặc bình khí giữa các rạn san hô? Bất kể thú vui của bạn là gì, những cặp đồng hồ mùa hè của chúng tôi đều làm bạn hài lòng. Thư giãn trên bãi biển và sau đó uốn lượn cùng nhau dưới những con sóng biển trong thiết kế màu xanh dương với mặt hình vuông và màn hình kỹ thuật số. Cặp SLV-21B-2 có họa tiết làn sóng và trái tim trên dây đeo và mặt sau vỏ. Nhấn nút đèn trên những đồng hồ này để thấy hình trái tim đôi của hai bạn xuất hiện trên màn hình. Bao bì được thiết kế đặc biệt làm từ giấy xanh nhạt lấp lánh tạo thành điểm nhấn hoàn thiện cho những báu vật của đại dương đầy nắng.",
   "type": {
-    "$oid": "62ec121c08e562b2a0acdf35"
+    "$oid": "62e6add3a9f249219d74ed04"
   },
-  "imageUrl": "https://vapetinhte.com/wp-content/uploads/2022/04/Smok-RPM4-Pod-Kit-VapeTinhTe-Ha-Noi.jpg",
-  "buyPrice": 850000,
-  "promotionPrice": 800000,
+  "imageUrl": "https://www.casio-vietnam.vn/wp-content/uploads/2021/10/SLV-21B-2_b.png",
+  "buyPrice": 440,
+  "promotionPrice": 410,
   "amount": 20,
   "timeCreated": {
     "$date": {
-      "$numberLong": "1659638357049"
+      "$numberLong": "1659326176976"
     }
   },
   "timeUpdated": {
     "$date": {
-      "$numberLong": "1659638357049"
+      "$numberLong": "1659326176976"
     }
   },
   "__v": 0
 },{
   "_id": {
-    "$oid": "62ec1cf1636c180b64162669"
+    "$oid": "62e75fec2a41005e9324974f"
   },
-  "name": "Smok Trinity Alpha Kit",
-  "description": "Một loạt các tính năng của các SMOK pod khác được tích hợp vào Trinity. Lần này là một hệ thống pod mở cho phép thay thế nhiều loại lõi Coil Occ linh hoạt. Trinity Alpha không chỉ gây ấn tượng với bạn về thiết kế mà còn cả cách sử dụng thực tế.",
+  "name": "BABY-G BA-130CV-2A",
+  "description": "Sở hữu những chiếc đồng hồ lấy cảm hứng từ điệu nhảy hip-hop được thiết kế cùng với RIEHATA. Vũ công và biên đạo nổi tiếng thế giới này mang đến vẻ ngoài hoàn toàn mới cho chiếc đồng hồ BA-130 này, tạo điểm nhấn độc đáo cho những chiếc vỏ ngoài lớn mang tính biểu tượng. RIEHATA tạo nên sự tương phản giữa thiết kế nam tính bằng các dây đeo trong suốt, đồng thời làm tăng nhịp điệu với các điểm nhấn bằng kim loại điện cho mặt đồng hồ. Thông điệp “Catch The Vibe” được in trên dây đeo đồng hồ thể hiện văn hóa hip-hop của thập niên 90 và đầu những năm 2000, gợi lại vẻ đẹp hoài cổ sắc sảo trong một chiếc đồng hồ thực sự đặc biệt. BABY-G sẽ khiến trái tim bạn loạn nhịp và sẵn sàng chuyển sang chế độ nhảy.RIEHATA Các nghệ sĩ Nhật Bản cũng như quốc tế, gồm có Chris Brown, Omarion, BTS, BoA, AI và EXILE đều thường xuyên liên lạc với vũ công kiêm nhà biên đạo cho nghệ sĩ RIEHATA. Với những vũ điệu sáng tạo, tràn đầy nội lực và diễn tả vô vàn cung bậc cảm xúc, “Nữ hoàng phong cách” luôn chiếm được cảm tình của người hâm mộ trên toàn thế giới.",
   "type": {
-    "$oid": "62ec120f08e562b2a0acdf32"
+    "$oid": "62e6add3a9f249219d74ed04"
   },
-  "imageUrl": "https://vapetinhte.com/wp-content/uploads/2019/09/SMOK-Trinity-Alpha-Vapetinhte-Hà-Nội.jpg",
-  "buyPrice": 500000,
-  "promotionPrice": 450000,
+  "imageUrl": "https://www.casio-vietnam.vn/wp-content/uploads/2021/09/BA-130CV-2A.png",
+  "buyPrice": 410,
+  "promotionPrice": 390,
   "amount": 20,
   "timeCreated": {
     "$date": {
-      "$numberLong": "1659638357049"
+      "$numberLong": "1659326176976"
     }
   },
   "timeUpdated": {
     "$date": {
-      "$numberLong": "1659638357049"
+      "$numberLong": "1659326176976"
     }
   },
   "__v": 0
 },{
   "_id": {
-    "$oid": "62ec1dc1636c180b64162699"
+    "$oid": "62e760452a41005e9324975a"
   },
-  "name": "Smok Nfix-Mate Pod Kit",
-  "description": "Khám phá Hệ thống Pod SMOK NFIX-Mate 25W. Có pin 1100mAh. Phạm vi 1-25W và tương thích với NFIX Meshed và DC MTL Pod. Được chế tạo từ hợp kim kẽm bền. Khung của NFIX-Mate không thấm nước khi bị rơi và rớt nhẹ. Kết hợp Pin 1100mAh khá lớn bên trong. Hệ thống Pod SMOK NFIX-Mate có thể cung cấp nhiều năng lượng cho pod. Tương thích với Dòng NFIX Pod. Đầu Pod này có thể chứa tối đa 3mL tinh dầu Saltnic hoặc Freebbase bên trong. Cung cấp một pod MTL có lưới 0,8ohm hoặc DC chắc chắn cung cấp nhiều hương vị. Tùy thuộc vào loại pod được lắp đặt. Hoạt động dựa trên cơ chế cảm biến tự động. SMOK NFIX-Mate rất dễ sử dụng. Và có một điểm gắn dây buộc để phù hợp với những thiết bị đang di chuyển.",
+  "name": "BABY-G BGD-560S-6",
+  "description": "Các dây đeo và vỏ bán trong suốt thời thượng tạo ra những thiết kế hoàn hảo cho hầu hết các hoạt động ngoài trời mùa hè. Có sẵn 2 màu: tím hoặc đen. Mẫu cơ bản là chiếc BGD-560 mặt vuông tiêu chuẩn phổ biến.",
   "type": {
-    "$oid": "62ec121c08e562b2a0acdf35"
+    "$oid": "62e6add3a9f249219d74ed04"
   },
-  "imageUrl": "https://vapetinhte.com/wp-content/uploads/2020/11/SMOK-Nfix-mate-25w-pod-kit-chinh-hang-ha-noi.jpg",
-  "buyPrice": 700000,
-  "promotionPrice": 650000,
+  "imageUrl": "https://www.casio-vietnam.vn/wp-content/uploads/2020/11/BGD-560S-6.png",
+  "buyPrice": 475,
+  "promotionPrice": 450,
   "amount": 20,
   "timeCreated": {
     "$date": {
-      "$numberLong": "1659638357049"
+      "$numberLong": "1659326176976"
     }
   },
   "timeUpdated": {
     "$date": {
-      "$numberLong": "1659638357049"
+      "$numberLong": "1659326176976"
     }
   },
   "__v": 0
 },{
   "_id": {
-    "$oid": "62ec1ead636c180b641626fe"
+    "$oid": "62e7608e2a41005e93249765"
   },
-  "name": "Rincoe Jellybox SE Pod Kit",
-  "description": "Rincoe JELLYBOX SE là một vape pod siêu nhỏ nhưng mạnh mẽ, cũng là sự tiếp nối của dòng Jellybox. Với thiết kế hoàn toàn trong suốt và chức năng mạnh mẽ, bạn sẽ có được trải nghiệm vaping chưa từng có.",
+  "name": "BABY-G BA-110SC-2A",
+  "description": "Từ BABY-G, dòng đồng hồ đơn giản dành cho giới nữ năng động, những mẫu đồng hồ mới được trang trí sắc màu thủy tinh biển đã ra đời. Thủy tinh biển là thủy tinh mờ tự nhiên được tìm thấy trên các bãi biển dọc theo các vùng nước mặn, mất hàng thập kỷ để tạo nên kết cấu và hình dạng đặc trưng của nó. Vật liệu bán trong suốt màu xanh dương, hồng và trắng mờ được sử dụng cho vỏ và dây đeo của các mẫu này tạo nên diện mạo giống như thủy tinh trên biển. Các bộ phận kim loại màu vàng lấp lánh trên mặt đồng hồ gợi nên hình ảnh ánh sáng phản chiếu từ thủy tinh biển cho thiết kế, hoàn toàn phù hợp với trang phục đi biển mùa hè.",
   "type": {
-    "$oid": "62ec120f08e562b2a0acdf32"
+    "$oid": "62e6add3a9f249219d74ed04"
   },
-  "imageUrl": "https://vapetinhte.com/wp-content/uploads/2022/02/authentic-rincoe-jellybox-se-pod-system-vape-kit-full-clear-500mah-28ml-10ohm.jpg",
-  "buyPrice": 400000,
-  "promotionPrice": 350000,
+  "imageUrl": "https://www.casio-vietnam.vn/wp-content/uploads/2020/05/BA-110SC-2A.png",
+  "buyPrice": 325,
+  "promotionPrice": 320,
   "amount": 20,
   "timeCreated": {
     "$date": {
-      "$numberLong": "1659638357049"
+      "$numberLong": "1659326176976"
     }
   },
   "timeUpdated": {
     "$date": {
-      "$numberLong": "1659638357049"
+      "$numberLong": "1659326176976"
     }
   },
   "__v": 0
 },{
   "_id": {
-    "$oid": "62ec1f72636c180b64162719"
+    "$oid": "62e760d52a41005e93249768"
   },
-  "name": "Geekvape Aegis Boost Plus",
-  "description": "Geek Vape Aegis BOOST PLUS Kit System, là phiên bản mới và cập nhật của Aegis BOOST. Aegis BOOST PLUS hoàn toàn mới hiện được cung cấp năng lượng bởi một pin 18650 duy nhất với công suất tối đa 40W. Nó được trang bị một chữ ký Geek Vape chữ ký Quân đội IP67 chống sốc, chống bụi và chống nước.",
+  "name": "BABY-G MSG-S500CD-7A",
+  "description": "Cùng chiêm ngưỡng những mẫu đồng hồ mới đầy ấn tượng với thiết kế đơn giản và thanh lịch của BABY-G G-MS, dòng sản phẩm dành cho những người phụ nữ hiện đại năng động và sành điệu. Phần viền mỏng và sắc nét, vạch chỉ giờ hình tam giác, nút điều chỉnh bát giác cùng nhiều chi tiết khác, tất cả đã tạo nên một kiệt tác hiện đại không thể cưỡng lại. Dây đeo được làm từ chất liệu kim loại và nhựa composite mới. Mẫu đồng hồ sở hữu thiết kế vỏ mỏng phù hợp với mọi hoàn cảnh, ba kim chỉ thời gian và hiển thị ngày, hoạt động bằng năng lượng mặt trời và khả năng chống nước tới 100m. Mẫu G-MS mới này chắc chắn là sự lựa chọn hoàn hảo cho công việc, giải trí hay bất cứ hoạt động nào khác của bạn.",
   "type": {
-    "$oid": "62ec121c08e562b2a0acdf35"
+    "$oid": "62e6add3a9f249219d74ed04"
   },
-  "imageUrl": "https://vapetinhte.com/wp-content/uploads/2020/11/Geekvape-Aegis-Boost-Plus-40w-Pod-Chinh-Hang-Ha-Noi.jpg",
-  "buyPrice": 900000,
-  "promotionPrice": 850000,
+  "imageUrl": "https://www.casio-vietnam.vn/wp-content/uploads/2020/03/MSG-S500CD-7A.png",
+  "buyPrice": 555,
+  "promotionPrice": 520,
   "amount": 20,
   "timeCreated": {
     "$date": {
-      "$numberLong": "1659638357049"
+      "$numberLong": "1659326176976"
     }
   },
   "timeUpdated": {
     "$date": {
-      "$numberLong": "1659638357049"
+      "$numberLong": "1659326176976"
     }
   },
   "__v": 0
 },{
   "_id": {
-    "$oid": "62ec2328636c180b641627be"
+    "$oid": "62e761282a41005e93249773"
   },
-  "name": "Snowwolf Kfeng Kit",
-  "description": "Snowwolf Kfeng Starter Kit, triển khai pin 2500mAh tích hợp lớn, Chipset thông minh IFV80 tiên tiến và được kết hợp với Tank Sub-Ohm . Snowwolf Mark, tạo ra một bộ khởi động vaping nặng hoàn hảo cho người dùng mới bắt đầu hoặc người dùng cao cấp. Được chế tạo từ khung gầm hợp kim kẽm bền bỉ, Snowwolf KFENG Kit nhỏ gọn và cầm tay cho cảm giác tiện dụng nhưng vẫn giữ logo logo sói 3D nổi bật.",
+  "name": "G-SHOCK GLX-5600RT-4",
+  "description": "Tận hưởng khoảnh khắc tắm nắng với màu đồng hồ tươi sáng! Giới thiệu dòng đồng hồ thể thao G-LIDE cho những vận động viên lướt sóng hàng đầu thế giới và cho người hâm mộ thể thao mạo hiểm. Những chiếc đồng hồ màu sắc rực rỡ này ra đời với mẫu DW-5600 và trở nên nổi bật hơn với chức năng đồ thị thủy triều cần thiết với mọi vận động viên lướt sóng. Mặt đồng hồ kim loại và lớp phủ tráng gương hoàn thiện giúp hiển thị thông tin bạn muốn với chất lượng cao hơn, trong một thiết kế đơn giản, vừa vặn với cổ tay của bạn.",
   "type": {
-    "$oid": "62ec120f08e562b2a0acdf32"
+    "$oid": "62e6ada1a9f249219d74ed02"
   },
-  "imageUrl": "https://vapetinhte.com/wp-content/uploads/2020/02/SnowWolf-Kfeng-starter-Kit-80w-2.jpg",
-  "buyPrice": 900000,
-  "promotionPrice": 850000,
+  "imageUrl": "https://www.casio-vietnam.vn/wp-content/uploads/2022/06/GLX-5600RT-4.jpg",
+  "buyPrice": 255,
+  "promotionPrice": 220,
   "amount": 20,
   "timeCreated": {
     "$date": {
-      "$numberLong": "1659638357049"
+      "$numberLong": "1659326176976"
     }
   },
   "timeUpdated": {
     "$date": {
-      "$numberLong": "1659638357049"
+      "$numberLong": "1659326176976"
     }
   },
   "__v": 0
 },{
   "_id": {
-    "$oid": "62ec2ac7636c180b64162889"
+    "$oid": "62e761722a41005e9324977e"
   },
-  "name": "Việt Quất - Saltnic EDMUND",
-  "description": "40mg là nồng độ nicotine cao. Phù hợp với kiểu Vape MTL, chơi ít khói nhiều vị, chơi Nicotine. Với tinh dầu Edmund 40mg bạn có thể sử dụng với các loại Vape Pod system như Smok Nord, Smoant Pasito, Zero Pod hay Ijoy Mercury. Các loại mày Coil nhỏ, sử dụng ở dải công suất 8-18W.",
+  "name": "G-SHOCK GAE-2100RC-1A",
+  "description": "Hai thế lực đặc trưng kết hợp với nhau tạo nên mẫu đồng hồ đặc biệt với độ bền tuyệt đối của G-SHOCK cùng sự vui tươi phá cách của khối Rubik trên toàn thế giới. Xin giới thiệu mẫu đồng hồ GAE-2100 với phần gờ bát giác vốn được ưa chuộng nay đã có nhiều màu hơn và được thiết kế theo phong cách trò chơi xếp hình mang nét văn hóa đại chúng tạo nên tầm ảnh hưởng toàn cầu. Mặt số, dây đeo và khóa được tạo điểm nhấn bằng các màu khối Rubik đặc trưng tạo nên chiếc đồng hồ G-SHOCK mang phong cách độc lạ, vui mắt. Đổi qua đổi lại giữa các đường gờ trắng và đen có thể thay thế nhau sao cho phù hợp với tâm trạng và phong cách của bạn. Sau khi Ernő Rubik phát minh ra sản phẩm này vào năm 1974, khối Rubik đã trở thành món đồ chơi xếp hình nổi tiếng nhất trong lịch sử, với 98% dân số trên thế giới biết đến. Được đánh giá cao vì sự kết hợp độc đáo giữa màu sắc và hình dạng, mẫu đồng hồ khối Rubik sẽ tiếp tục truyền cảm hứng và thách thức các thế hệ về sau.",
   "type": {
-    "$oid": "62ec2748636c180b64162845"
+    "$oid": "62e6ada1a9f249219d74ed02"
   },
-  "imageUrl": "https://vapetinhte.com/wp-content/uploads/2019/05/Tinh-dau-Edmund-Viet-Quat-Vapetinhte.jpg",
-  "buyPrice": 300000,
-  "promotionPrice": 250000,
-  "amount": 80,
+  "imageUrl": "https://www.casio-vietnam.vn/wp-content/uploads/2022/06/GAE-2100RC-1A.jpg",
+  "buyPrice": 455,
+  "promotionPrice": 420,
+  "amount": 20,
   "timeCreated": {
     "$date": {
-      "$numberLong": "1659638357049"
+      "$numberLong": "1659326176976"
     }
   },
   "timeUpdated": {
     "$date": {
-      "$numberLong": "1659638357049"
+      "$numberLong": "1659326176976"
     }
   },
   "__v": 0
 },{
   "_id": {
-    "$oid": "62ec2b66636c180b6416289e"
+    "$oid": "62e761cb2a41005e9324978a"
   },
-  "name": "Vang Nho - Saltnic Grape Wine",
-  "description": "30mg là nồng độ nicotine cao. Phù hợp với kiểu Vape MTL, chơi ít khói nhiều vị, chơi Nicotine. Với tinh dầu Edmund 40mg bạn có thể sử dụng với các loại Vape Pod system như Smok Nord, Smoant Pasito, Zero Pod hay Ijoy Mercury. Các loại mày Coil nhỏ, sử dụng ở dải công suất 8-18W.",
+  "name": "G-SHOCK GBD-200SM-1A6",
+  "description": "Mang lại sức sống tràn trề cho buổi tập của bạn với một trong những chiếc đồng hồ G-SHOCK thể thao màu sắc rực rỡ của G-SQUAD. Những vệt màu xanh lá, cam và tím nổi bật của thời trang thể thao ngày nay là điểm nhấn trên đường gờ trong mờ, để đưa phong cách thời trang đi tập của bạn lên tầm cao mới.",
   "type": {
-    "$oid": "62ec2748636c180b64162845"
+    "$oid": "62e6ada1a9f249219d74ed02"
   },
-  "imageUrl": "https://vapetinhte.com/wp-content/uploads/2022/06/Steam-work-vang-nho-30mg-320k.jpg",
-  "buyPrice": 350000,
-  "promotionPrice": 320000,
-  "amount": 80,
+  "imageUrl": "https://www.casio-vietnam.vn/wp-content/uploads/2022/04/GBD-200SM-1A6.png",
+  "buyPrice": 455,
+  "promotionPrice": 420,
+  "amount": 20,
   "timeCreated": {
     "$date": {
-      "$numberLong": "1659638357049"
+      "$numberLong": "1659326176976"
     }
   },
   "timeUpdated": {
     "$date": {
-      "$numberLong": "1659638357049"
-    }
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "62ec2be3636c180b641628b6"
-  },
-  "name": "Kem Mật Ong - SaltNic Cubano Silver",
-  "description": "Hương vị: Kem xì gà mật ong béo ngậy. Dung tích: 30ml. Nicotine: 0.3% – 3mg",
-  "type": {
-    "$oid": "62ec2748636c180b64162845"
-  },
-  "imageUrl": "https://vapetinhte.com/wp-content/uploads/2019/06/VGOD-SALTNIC-CUBANO-SILVER-HÀ-NỘI.jpg",
-  "buyPrice": 370000,
-  "promotionPrice": 350000,
-  "amount": 80,
-  "timeCreated": {
-    "$date": {
-      "$numberLong": "1659638357049"
-    }
-  },
-  "timeUpdated": {
-    "$date": {
-      "$numberLong": "1659638357049"
-    }
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "62ec2d1f636c180b641628de"
-  },
-  "name": "Head Dâu Kiwi Extra Freeze",
-  "description": "Hương vị: Dâu Kiwi. Dung tích: 100ml. Nicotine: 3mg = 0.3%nicotine , 6mg = 0.6%nicotine",
-  "type": {
-    "$oid": "62ec2748636c180b64162845"
-  },
-  "imageUrl": "https://vapetinhte.com/wp-content/uploads/2021/10/Dau-kiwi-100ml-Head.jpg",
-  "buyPrice": 350000,
-  "promotionPrice": 320000,
-  "amount": 80,
-  "timeCreated": {
-    "$date": {
-      "$numberLong": "1659638357049"
-    }
-  },
-  "timeUpdated": {
-    "$date": {
-      "$numberLong": "1659638357049"
-    }
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "62ec2d62636c180b641628eb"
-  },
-  "name": "Táo Kiwi - Sausy Pomme ",
-  "description": "Tinh dầu được sản xuất tại Mỹ . Sausy Pomme là sự kết hợp giữa Táo xanh và Kiwi tạo lên 1 mùi thơm ngọt nhẹ nhàng 1 chút lạnh khiến khói cảm thấy dày đặc hơn .",
-  "type": {
-    "$oid": "62ec2748636c180b64162845"
-  },
-  "imageUrl": "https://vapetinhte.com/wp-content/uploads/2020/12/Tinh-dau-Sausy-Pomme-Kiwi-tao-kiwi-Chinh-Hang-Ha-Noi.jpeg",
-  "buyPrice": 250000,
-  "promotionPrice": 200000,
-  "amount": 80,
-  "timeCreated": {
-    "$date": {
-      "$numberLong": "1659638357049"
-    }
-  },
-  "timeUpdated": {
-    "$date": {
-      "$numberLong": "1659638357049"
-    }
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "62ec2dfd636c180b64162913"
-  },
-  "name": "Nho Lạnh - Saltnic EDMUND",
-  "description": "40mg. Hương vị Bạc hà mát lạnh và một chút thuôc lá xì gà.",
-  "type": {
-    "$oid": "62ec2748636c180b64162845"
-  },
-  "imageUrl": "https://vapetinhte.com/wp-content/uploads/2019/10/Edmund-Grape.jpg",
-  "buyPrice": 270000,
-  "promotionPrice": 250000,
-  "amount": 50,
-  "timeCreated": {
-    "$date": {
-      "$numberLong": "1659638357049"
-    }
-  },
-  "timeUpdated": {
-    "$date": {
-      "$numberLong": "1659638357049"
+      "$numberLong": "1659326176976"
     }
   },
   "__v": 0

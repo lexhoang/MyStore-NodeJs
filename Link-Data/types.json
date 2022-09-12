@@ -1,51 +1,34 @@
 [{
   "_id": {
-    "$oid": "62ec120f08e562b2a0acdf32"
+    "$oid": "62e6ada1a9f249219d74ed02"
   },
-  "name": "Vape",
-  "description": "Vape - Thuốc lá điện tử dung lượng lớn",
+  "name": "Men",
+  "description": "Đồng hồ dành cho nam",
   "timeCreated": {
     "$date": {
-      "$numberLong": "1659628795922"
+      "$numberLong": "1659284579910"
     }
   },
   "timeUpdated": {
     "$date": {
-      "$numberLong": "1659628795922"
+      "$numberLong": "1659284579910"
     }
   },
   "__v": 0
 },{
   "_id": {
-    "$oid": "62ec121c08e562b2a0acdf35"
+    "$oid": "62e6add3a9f249219d74ed04"
   },
-  "name": "Pod",
-  "description": "Pod- Thuốc lá điện tử dung nhỏ",
+  "name": "Ladies",
+  "description": "Đồng hồ dành cho nữ",
   "timeCreated": {
     "$date": {
-      "$numberLong": "1659628795922"
+      "$numberLong": "1659284579910"
     }
   },
   "timeUpdated": {
     "$date": {
-      "$numberLong": "1659628795922"
-    }
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "62ec2748636c180b64162845"
-  },
-  "name": "Juice",
-  "description": "Tinh dầu cho Vape - Pod",
-  "timeCreated": {
-    "$date": {
-      "$numberLong": "1659638357033"
-    }
-  },
-  "timeUpdated": {
-    "$date": {
-      "$numberLong": "1659638357033"
+      "$numberLong": "1659284579910"
     }
   },
   "__v": 0

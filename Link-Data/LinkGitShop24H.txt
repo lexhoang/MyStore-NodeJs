@@ -1,1 +1,3 @@
-https://gitlab.com/projectmy/shop-24h-fullstack
+https://github.com/lexhoang/MyStore-ReactJs
+https://github.com/lexhoang/MyStore-NodeJs
+https://github.com/lexhoang/MyStore-Admin
