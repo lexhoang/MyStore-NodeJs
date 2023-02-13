@@ -37,10 +37,10 @@ app.use(function (req, res, next) {
 
 
 //Khai báo cỏng nodeJs
-const port = process.env.PORT || 8000;
+const port = 8000;
 
 //Sử dụng Mongoose
-mongoose.connect("mongodb+srv://lehoang:lehoang99@cluster0.mcqutmz.mongodb.net/?retryWrites=true&w=majority", (err) => {
+mongoose.connect("mongodb://localhost:27017/ShopDongHo", (err) => {
     if (err) {
         throw err;
     }
