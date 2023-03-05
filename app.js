@@ -41,9 +41,14 @@ const port = 8000;
 
 //Sử dụng Mongoose
 mongoose.connect("mongodb+srv://hoangle999:sieukhunglong99@cluster0.5cl1k13.mongodb.net/test", (err) => {
-    if (err) {
-        throw err;
-    }
+    if (err) throw err;
+    var dbo = data.db("MyCol");
+    dbo.createCollection("Infor_User", function (err, res) {
+        if (err) throw err;
+        console.log("Collection");
+        db.close();
+    })
+
 
     console.log("Connect MongoDB successfully!");
 })
