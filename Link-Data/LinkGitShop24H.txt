@@ -1,3 +1,3 @@
-https://github.com/lexhoang/MyStore-ReactJs
+https://my-store-react-js.vercel.app/
 https://github.com/lexhoang/MyStore-NodeJs
 https://github.com/lexhoang/MyStore-Admin
