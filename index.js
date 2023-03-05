@@ -40,7 +40,7 @@ app.use(function (req, res, next) {
 const port = 8000;
 
 //Sử dụng Mongoose
-mongoose.connect("mongodb://localhost:27017/ShopDongHo", (err) => {
+mongoose.connect("mongodb+srv://hoangle999:sieukhunglong99@cluster0.5cl1k13.mongodb.net/test", (err) => {
     if (err) {
         throw err;
     }
