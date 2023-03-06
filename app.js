@@ -36,20 +36,15 @@ app.use(function (req, res, next) {
 });
 
 
-//Khai báo cỏng nodeJs
-const port = 8000;
 
 //Sử dụng Mongoose
-mongoose.connect("mongodb+srv://hoangle999:sieukhunglong99@cluster0.5cl1k13.mongodb.net/test", (err) => {
+mongoose.connect("mongodb+srv://hoangle999:sieukhunglong99@cluster0.5cl1k13.mongodb.net/?retryWrites=true&w=majority", (err) => {
     if (err) {
         throw err;
     }
 
     console.log("Connect MongoDB successfully!");
 })
-
-
-
 
 app.get('/', (request, response) => {
     response.status(200).json({
@@ -63,6 +58,9 @@ app.use('/', ProductTypeRouter)
 app.use('/', ProductRouter)
 app.use('/', CustomerRouter)
 app.use('/', OrderRouter)
+
+//Khai báo cỏng nodeJs
+const port = process.env.PORT || 8000
 
 //Chạy cổng nodeJs
 app.listen(port, () => {
