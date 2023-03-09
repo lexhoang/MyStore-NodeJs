@@ -38,7 +38,7 @@ app.use(function (req, res, next) {
 
 
 //Sử dụng Mongoose
-mongoose.connect("mongodb+srv://hoangle999:sieukhunglong99@cluster0.5cl1k13.mongodb.net/Cluster0?retryWrites=true&w=majority", (err) => {
+mongoose.connect("mongodb://localhost:27017/ShopDongHo", (err) => {
     if (err) {
         throw err;
     }
