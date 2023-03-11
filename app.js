@@ -1,3 +1,5 @@
+const dotenv = require('dotenv');
+
 //Khai báo thư viện Express
 const express = require('express');
 
@@ -8,6 +10,7 @@ var cors = require('cors');
 //Import Mongoose
 const mongoose = require('mongoose');
 
+dotenv.config()
 
 //Import router
 const ProductTypeRouter = require('./router/ProductTypeRouter');
@@ -46,7 +49,8 @@ app.use(function (req, res, next) {
 //     console.log("Connect MongoDB successfully!");
 // })
 
-const mongoAtlasUri = "mongodb+srv://hoangle999:sieukhunglong99@cluster0.5cl1k13.mongodb.net/?retryWrites=true&w=majority"
+const mongoAtlasUri = process.env.MONGO_URI
+console.log(mongoAtlasUri);
 mongoose.connect(
     mongoAtlasUri,
     { useNewUrlParser: true, useUnifiedTopology: true },
@@ -54,6 +58,8 @@ mongoose.connect(
         console.log(" Mongoose is connected");
     }
 );
+
+
 app.get('/', (request, response) => {
     response.status(200).json({
         test: 1111
@@ -68,7 +74,7 @@ app.use('/', CustomerRouter)
 app.use('/', OrderRouter)
 
 //Khai báo cỏng nodeJs
-const port = process.env.PORT || 8000
+const port = process.env.PORT
 
 //Chạy cổng nodeJs
 app.listen(port, () => {
