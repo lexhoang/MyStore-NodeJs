@@ -38,14 +38,22 @@ app.use(function (req, res, next) {
 
 
 //Sử dụng Mongoose
-mongoose.connect("mongodb://localhost:27017/ShopDongHo", (err) => {
-    if (err) {
-        throw err;
+// mongoose.connect("mongodb+srv://hoangle999:sieukhung99@cluster0.5cl1k13.mongodb.net/?retryWrites=true&w=majority", (err) => {
+//     if (err) {
+//         throw err;
+//     }
+
+//     console.log("Connect MongoDB successfully!");
+// })
+
+const mongoAtlasUri = "mongodb+srv://hoangle999:sieukhunglong99@cluster0.5cl1k13.mongodb.net/?retryWrites=true&w=majority"
+mongoose.connect(
+    mongoAtlasUri,
+    { useNewUrlParser: true, useUnifiedTopology: true },
+    () => {
+        console.log(" Mongoose is connected");
     }
-
-    console.log("Connect MongoDB successfully!");
-})
-
+);
 app.get('/', (request, response) => {
     response.status(200).json({
         test: 1111
