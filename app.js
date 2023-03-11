@@ -50,7 +50,7 @@ app.use(function (req, res, next) {
 // })
 
 const mongoAtlasUri = "mongodb+srv://hoangle999:sieukhunglong99@watchstore.hospcao.mongodb.net/?retryWrites=true&w=majority"
-console.log(mongoAtlasUri);
+// console.log(mongoAtlasUri);
 mongoose.connect(
     mongoAtlasUri,
     { useNewUrlParser: true, useUnifiedTopology: true },
