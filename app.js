@@ -49,7 +49,7 @@ app.use(function (req, res, next) {
 //     console.log("Connect MongoDB successfully!");
 // })
 
-const mongoAtlasUri = process.env.MONGO_URI
+const mongoAtlasUri = "mongodb+srv://hoangle999:sieukhunglong99@watchstore.hospcao.mongodb.net/?retryWrites=true&w=majority"
 console.log(mongoAtlasUri);
 mongoose.connect(
     mongoAtlasUri,
@@ -74,7 +74,7 @@ app.use('/', CustomerRouter)
 app.use('/', OrderRouter)
 
 //Khai báo cỏng nodeJs
-const port = process.env.PORT
+const port = 8000
 
 //Chạy cổng nodeJs
 app.listen(port, () => {
